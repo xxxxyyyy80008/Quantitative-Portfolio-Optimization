@@ -1,4 +1,4 @@
-# Portfolio Optimization using Monte Carlo Methods - Summary
+# Portfolio Optimization using Monte Carlo Methods
 
 **Notebooks**
 
