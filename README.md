@@ -21,14 +21,11 @@ A collection of Jupyter notebooks implementing **Modern Portfolio Theory (MPT)**
       - [Documentation](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/docs/02_portfolio_optimization_pyportfolioopt.md)
       - [Github Notebook](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/notebooks/02_portfolio_optimization_pyportfolioopt.ipynb)
       - [Kaggle Notebook](https://www.kaggle.com/code/xxxxyyyy80008/portfolio-optimization-mc-and-pyportfolioopt) 
-  3. Portfolio Risk Analytics - VaR & ES](#3-portfolio-risk-analytics---var--es) 
+  3. Portfolio Risk Analytics - VaR & ES
       - [Documentation](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/docs/03_portfolio_risk_analytics_var_and_es.md)
       - [Github Notebook](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/notebooks/03_portfolio_risk_analytics_var_and_es.ipynb)
       - [Kaggle Notebook](https://www.kaggle.com/code/xxxxyyyy80008/portfolio-risk-analytics-var-and-es)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Requirements](#requirements)
-- [License](#license)
+
 
 ---
 
