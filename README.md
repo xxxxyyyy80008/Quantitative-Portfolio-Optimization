@@ -31,19 +31,7 @@ This repository implements **Modern Portfolio Theory (MPT)**, **Monte Carlo simu
 
 ##  Overview
 
-This repository provides a complete quantitative finance toolkit for portfolio construction, optimization, and risk management. The framework implements **17+ distinct methodologies** spanning portfolio optimization and risk measurement, validated through rigorous backtesting and statistical analysis.
-
-**Analysis Period**: January 2019 - December 2025  
-**Confidence Level**: 99% (α = 0.01)  
-**Random Seed**: 3407 (full reproducibility)
-
-###  Applications
-
-- **Portfolio Management**: Optimal asset allocation and risk budgeting
-- **Risk Management**: VaR/ES estimation and stress testing
-- **Quantitative Research**: Comparative methodology studies
-- **Regulatory Compliance**: Basel III internal models validation
-- **Academic Projects**: Modern Portfolio Theory implementation
+This repository implements Modern Portfolio Theory (MPT), Monte Carlo simulation, and advanced risk analytics for quantitative portfolio management and risk measurement.
 
 ---
 
