@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-A collection of Jupyter notebooks implementing **Modern Portfolio Theory (MPT)**, **Monte Carlo simulation**, and **advanced risk analytics** for quantitative portfolio management and risk measurement.
+This repository implements **Modern Portfolio Theory (MPT)**, **Monte Carlo simulation**, and **advanced risk analytics** for quantitative portfolio management and risk measurement.
 
 ---
 
