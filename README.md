@@ -29,19 +29,14 @@ This repository implements **Modern Portfolio Theory (MPT)**, **Monte Carlo simu
 
 ---
 
-##  Overview
-
-This repository implements Modern Portfolio Theory (MPT), Monte Carlo simulation, and advanced risk analytics for quantitative portfolio management and risk measurement.
-
----
-
 ##  Notebooks
 
 ### 1. Portfolio Optimization - Monte Carlo
 
 **Notebook**: `01_portfolio_optimization_monte_carlo.ipynb`
 
-[]()
+
+[Documentation](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/docs/01_portfolio_optimization_monte_carlo.md) ~ [Github Notebook](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/notebooks/01_portfolio_optimization_monte_carlo.ipynb) ~ [Kaggle Notebook](https://www.kaggle.com/code/xxxxyyyy80008/portfolio-optimization-with-monte-carlo)
 
 
 #### Overview
@@ -73,7 +68,9 @@ $$SR = \frac{\mu_P - r_f}{\sigma_P}$$
 
 ### 2. Portfolio Optimization - PyPortfolioOpt
 
-**Notebook**: `portfolio_optimization_pypfopt.ipynb`
+**Notebook**: `02_portfolio_optimization_pyportfolioopt.ipynb`
+
+[Documentation](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/docs/02_portfolio_optimization_pyportfolioopt.md) ~ [Github Notebook](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/notebooks/02_portfolio_optimization_pyportfolioopt.ipynb) ~ [Kaggle Notebook](https://www.kaggle.com/code/xxxxyyyy80008/portfolio-optimization-mc-and-pyportfolioopt) 
 
 #### Overview
 Advanced portfolio optimization using **PyPortfolioOpt** library with dual optimization approach and discrete allocation functionality.
@@ -102,11 +99,16 @@ Advanced portfolio optimization using **PyPortfolioOpt** library with dual optim
 
 ### 3. Portfolio Risk Analytics - VaR & ES
 
-**Notebook**: `portfolio_risk_analytics_var_es.ipynb`
+**Notebook**: `03_portfolio_risk_analytics_var_and_es.ipynb`
+
+
+[Documentation](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/docs/03_portfolio_risk_analytics_var_and_es.md) ~  [Github Notebook](https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization/blob/main/notebooks/03_portfolio_risk_analytics_var_and_es.ipynb) ~ [Kaggle Notebook](https://www.kaggle.com/code/xxxxyyyy80008/portfolio-risk-analytics-var-and-es)
+
+
 
 #### Overview
 
-Comprehensive risk measurement framework implementing 17 distinct VaR and Expected Shortfall methodologies with rigorous backtesting. 
+Comprehensive risk measurement framework implementing ~17 VaR and Expected Shortfall methodologies with rigorous backtesting. 
 
 #### Key Features
 - 17 VaR/ES methods: Parametric, non-parametric, and advanced historical
@@ -162,17 +164,3 @@ Comprehensive risk measurement framework implementing 17 distinct VaR and Expect
 - Rich Visualizations: Heatmaps, comparison charts, temporal analysis
 - Rolling Windows: Dynamic 250-day estimation
 
-
-## Prerequisites
-- Python 3.8+
-- Jupyter Lab or Notebook
-- Libraries: See `requirements.txt`
-
-## Setup Instructions
-1. Clone the repo: `git clone https://github.com/xxxxyyyy80008/Quantitative-Portfolio-Optimization.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Launch Jupyter: `jupyter lab`
-4. Open the notebooks folder and run them in order.
-
-## License
-MIT License (see LICENSE file).
